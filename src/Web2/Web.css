@@ -1,0 +1,11 @@
+.radius{
+    border-radius: 24px!important;
+}
+
+.btn-Color{
+    --bs-btn-color: #1de689;
+    --bs-btn-border-color: #1de689;
+    --bs-btn-hover-color: #fff;
+    --bs-btn-hover-bg: #1de689;
+    --bs-btn-hover-border-color: #1de689;
+}
